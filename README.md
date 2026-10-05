@@ -1,4 +1,6 @@
 flask-starter
+
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/andrewsnowden/flask-starter)
 =============
 
 A batteries included boilerplate Flask project for getting new projects up and
